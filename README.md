@@ -20,13 +20,13 @@ A simple weather application built with React and TypeScript, utilizing the Open
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/weather-app.git
+   git clone https://github.com/your-username/weatherApp.git
    ```
 
 2. **Navigate into the project directory:**
 
    ```bash
-   cd weather-app
+   cd weatherapp
    ```
 
 3. **Install dependencies:**
@@ -56,10 +56,10 @@ A simple weather application built with React and TypeScript, utilizing the Open
 5. **Start the development server:**
 
    ```bash
-   npm start
+   npm run dev
    ```
 
-   This command will start the development server. Once it's running, open your web browser and navigate to `http://localhost:3000` to view the app.
+   This command will start the development server. Once it's running, open your web browser and navigate to `http://localhost:5173` to view the app.
 
 6. **Explore the app:**
 
@@ -73,11 +73,7 @@ A simple weather application built with React and TypeScript, utilizing the Open
 
 ## Screenshots
 
-[Insert screenshots here if desired]
-
-## Contributing
-
-Contributions are welcome! Feel free to open an issue or submit a pull request for any improvements or bug fixes.
+![image](https://github.com/OrestisSl/weatherApp/assets/99047399/258205bb-bbd5-42c9-a136-bbdda7da7a89)
 
 ## License
 
