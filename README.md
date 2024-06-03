@@ -20,7 +20,7 @@ A simple weather application built with React and TypeScript, utilizing the Open
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/weatherApp.git
+   git clone https://github.com/OrestisSl/weatherApp.git
    ```
 
 2. **Navigate into the project directory:**
