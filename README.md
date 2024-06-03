@@ -17,7 +17,68 @@ A simple weather application built with React and TypeScript, utilizing the Open
 
 ## Installation
 
-1. Clone the repository:
+1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/OrestisSl/weatherApp.git
+   git clone https://github.com/your-username/weather-app.git
+   ```
+
+2. **Navigate into the project directory:**
+
+   ```bash
+   cd weather-app
+   ```
+
+3. **Install dependencies:**
+
+   Ensure you have Node.js and npm installed on your machine. If not, you can download and install them from [here](https://nodejs.org/).
+
+   ```bash
+   npm install
+   ```
+
+4. **Set up environment variables:**
+
+   Create a `.env` file in the root directory of the project. You can do this by running the following command:
+
+   ```bash
+   touch .env
+   ```
+
+   Open the `.env` file with a text editor and add your OpenWeatherMap API key like this:
+
+   ```
+   VITE_REACT_APP_API_KEY=your_api_key_here
+   ```
+
+   Replace `your_api_key_here` with your actual API key obtained from [OpenWeatherMap](https://home.openweathermap.org/users/sign_up).
+
+5. **Start the development server:**
+
+   ```bash
+   npm start
+   ```
+
+   This command will start the development server. Once it's running, open your web browser and navigate to `http://localhost:3000` to view the app.
+
+6. **Explore the app:**
+
+   Now you can explore the Weather App! Enter the name of a city in the input field and click the "Search" button to fetch weather data for that city.
+
+## Usage
+
+- Enter the name of the city you want to check the weather for in the input field.
+- Click the "Search" button to fetch weather data for that city.
+- Weather information will be displayed below the input field.
+
+## Screenshots
+
+[Insert screenshots here if desired]
+
+## Contributing
+
+Contributions are welcome! Feel free to open an issue or submit a pull request for any improvements or bug fixes.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
