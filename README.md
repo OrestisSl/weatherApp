@@ -77,4 +77,4 @@ A simple weather application built with React and TypeScript, utilizing the Open
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License.
